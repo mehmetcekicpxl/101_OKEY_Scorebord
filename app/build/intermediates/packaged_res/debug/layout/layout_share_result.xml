@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="1080px"
+    android:layout_height="1920px"
+    android:background="@drawable/bg_gradient"
+    android:padding="48dp">
+
+    <!-- Intentional Fixed Pixel Size for High Quality Bitmap Generation (1080x1920 is standard IG Story) -->
+
+    <TextView
+        android:id="@+id/tvHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GECENİN KRALI"
+        android:textSize="60px"
+        android:textStyle="bold"
+        android:textColor="@color/gold_accent"
+        android:letterSpacing="0.2"
+        android:layout_marginTop="200px"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ImageView
+        android:id="@+id/ivCrown"
+        android:layout_width="400px"
+        android:layout_height="300px"
+        android:src="@android:drawable/star_big_on"
+        android:tint="@color/gold_accent"
+        android:layout_marginTop="100px"
+        app:layout_constraintTop_toBottomOf="@id/tvHeader"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/surface_dark"
+        app:cardCornerRadius="40px"
+        app:cardElevation="20px"
+        android:layout_marginTop="100px"
+        app:layout_constraintTop_toBottomOf="@id/ivCrown">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="80px"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvWinnerName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AHMET"
+                android:textSize="100px"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:textAllCaps="true"/>
+
+            <TextView
+                android:id="@+id/tvWinnerScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1540 Puan"
+                android:textSize="60px"
+                android:textColor="@color/okey_green_light"
+                android:layout_marginTop="30px"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvFooter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gelişmiş Puan Takibi"
+        android:textSize="40px"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="100px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

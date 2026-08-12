@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.okey101"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+12-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+13-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:7:5-74
+13-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:7:22-71
+14
+15    <permission
+15-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.example.okey101.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.example.okey101.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:9:5-41:19
+22        android:allowBackup="true"
+22-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.12.0] C:\Users\12304364\.gradle\caches\transforms-4\7bc81dfd259678cea3e9cc152de66358\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:11:9-65
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:12:9-54
+27        android:icon="@drawable/ic_launcher"
+27-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:13:9-45
+28        android:label="@string/app_name"
+28-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:14:9-41
+29        android:roundIcon="@drawable/ic_launcher"
+29-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:15:9-50
+30        android:supportsRtl="true"
+30-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:16:9-35
+31        android:theme="@style/Theme.Okey101" >
+31-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:17:9-45
+32        <activity
+32-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:19:9-27:20
+33            android:name="com.example.okey101.MainActivity"
+33-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:20:13-41
+34            android:exported="true" >
+34-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:21:13-36
+35            <intent-filter>
+35-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:22:13-26:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:23:17-69
+36-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:23:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:25:17-77
+38-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:25:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.example.okey101.GameActivity" />
+41-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:28:9-50
+41-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:28:19-47
+42        <activity android:name="com.example.okey101.StatisticsActivity" />
+42-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:29:9-56
+42-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:29:19-53
+43
+44        <receiver
+44-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:30:9-79
+45            android:name="com.example.okey101.ReminderReceiver"
+45-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:30:19-51
+46            android:exported="false" />
+46-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:30:52-76
+47
+48        <provider
+48-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:32:9-40:20
+49            android:name="androidx.core.content.FileProvider"
+49-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:33:13-62
+50            android:authorities="com.example.okey101.fileprovider"
+50-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:34:13-67
+51            android:exported="false"
+51-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:35:13-37
+52            android:grantUriPermissions="true" >
+52-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:36:13-47
+53            <meta-data
+53-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:37:13-39:54
+54                android:name="android.support.FILE_PROVIDER_PATHS"
+54-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:38:17-67
+55                android:resource="@xml/file_paths" />
+55-->C:\Users\12304364\source\repos\Individueel_Projects\101_OKEY_Puan_Takip_Uygulamasi\app\src\main\AndroidManifest.xml:39:17-51
+56        </provider>
+57        <provider
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+59            android:authorities="com.example.okey101.androidx-startup"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+60            android:exported="false" >
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+61            <meta-data
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+63                android:value="androidx.startup" />
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12304364\.gradle\caches\transforms-4\5724b836fa9cd6ca3760a38ab476eb0b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\12304364\.gradle\caches\transforms-4\d02e02c7b4b4dd31ed0055ec47e64d55\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\12304364\.gradle\caches\transforms-4\d02e02c7b4b4dd31ed0055ec47e64d55\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+66                android:value="androidx.startup" />
+66-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\12304364\.gradle\caches\transforms-4\d02e02c7b4b4dd31ed0055ec47e64d55\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+69                android:value="androidx.startup" />
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+70        </provider>
+71
+72        <service
+72-->[androidx.room:room-runtime:2.6.1] C:\Users\12304364\.gradle\caches\transforms-4\32b2f1e8f64a116ec7be2dc6d7986459\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+73            android:name="androidx.room.MultiInstanceInvalidationService"
+73-->[androidx.room:room-runtime:2.6.1] C:\Users\12304364\.gradle\caches\transforms-4\32b2f1e8f64a116ec7be2dc6d7986459\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+74            android:directBootAware="true"
+74-->[androidx.room:room-runtime:2.6.1] C:\Users\12304364\.gradle\caches\transforms-4\32b2f1e8f64a116ec7be2dc6d7986459\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+75            android:exported="false" />
+75-->[androidx.room:room-runtime:2.6.1] C:\Users\12304364\.gradle\caches\transforms-4\32b2f1e8f64a116ec7be2dc6d7986459\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+76
+77        <receiver
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+78            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+79            android:directBootAware="false"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+80            android:enabled="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+81            android:exported="true"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+82            android:permission="android.permission.DUMP" >
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+84                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+87                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+90                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+93                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12304364\.gradle\caches\transforms-4\8e5f4d60857a8a194ff33c989ea605a6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+94            </intent-filter>
+95        </receiver>
+96    </application>
+97
+98</manifest>

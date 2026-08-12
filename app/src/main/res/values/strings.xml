@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">101 Okey Puan Takip</string>
+    <string name="new_game">Yeni Oyun Başlat</string>
+    <string name="previous_games">Geçmiş Oyunlar</string>
+    <string name="player_1">1. Oyuncu</string>
+    <string name="player_2">2. Oyuncu</string>
+    <string name="player_3">3. Oyuncu</string>
+    <string name="player_4">4. Oyuncu</string>
+    <string name="host_name">Ev Sahibi Adı</string>
+    <string name="start_game">Oyuna Başla</string>
+    <string name="game_date">Tarih: %s</string>
+    <string name="winner">Kazanan: %s</string>
+    <string name="score_input_hint">Puan</string>
+    <string name="add_round_score">Turu Kaydet</string>
+    <string name="finish_game">Oyunu Bitir ve Kaydet</string>
+    <string name="leaderboard">Liderlik Tablosu</string>
+    <string name="total_score">Toplam: %d</string>
+    <string name="host_burden_message">Sana da çok yük olduk %s ...</string>
+    <string name="tea_time">Çaylaaarrrrr!</string>
+    <string name="enter_all_names">Lütfen tüm isimleri giriniz.</string>
+    <string name="game_saved">Oyun Kaydedildi!</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+</resources>

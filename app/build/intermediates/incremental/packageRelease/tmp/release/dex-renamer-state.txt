@@ -1,0 +1,4 @@
+#Thu Feb 19 21:01:51 CET 2026
+base.0=C\:\\Users\\12304364\\source\\repos\\Individueel_Projects\\101_OKEY_Puan_Takip_Uygulamasi\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

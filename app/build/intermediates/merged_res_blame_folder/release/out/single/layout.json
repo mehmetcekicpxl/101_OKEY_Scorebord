@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.okey101.app-mergeReleaseResources-38:/layout/layout_dialog_history.xml",
+        "source": "com.example.okey101.app-main-40:/layout/layout_dialog_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\item_game.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\item_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\layout_share_result.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\layout_share_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\item_stat_player.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\item_stat_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\layout_dialog_wheel.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\layout_dialog_wheel.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\activity_statistics.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\dialog_new_game.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\dialog_new_game.xml"
+    },
+    {
+        "merged": "com.example.okey101.app-mergeReleaseResources-38:/layout/activity_game.xml",
+        "source": "com.example.okey101.app-main-40:/layout/activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-mergeReleaseResources-38:\\layout\\activity_game.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-40:\\layout\\activity_game.xml"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Premium Okey Theme -->
+    <color name="okey_green_primary">#2E7D32</color> <!-- Dark Green Table Color -->
+    <color name="okey_green_dark">#1B5E20</color>
+    <color name="okey_green_light">#4CAF50</color>
+    
+    <color name="gold_accent">#FFC107</color> <!-- Winner/Star Color -->
+    <color name="gold_dark">#FFA000</color>
+    
+    <color name="background_dark">#121212</color> <!-- Modern Dark BG -->
+    <color name="surface_dark">#1E1E1E</color> <!-- Card BG -->
+    
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    
+    <color name="error_red">#CF6679</color>
+</resources>

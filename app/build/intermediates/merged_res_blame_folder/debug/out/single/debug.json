@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\color_input_stroke_color.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\color\\input_stroke_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_layout_dialog_wheel.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\layout_dialog_wheel.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\raw_caylar.mp3.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\raw\\caylar.mp3"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_layout_dialog_history.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\layout_dialog_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\drawable_rounded_card_bg.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\drawable\\rounded_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_item_game.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\item_game.xml"
+    },
+    {
+        "merged": "com.example.okey101.app-merged_res-39:/layout_activity_game.xml.flat",
+        "source": "com.example.okey101.app-main-41:/layout/activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_item_stat_player.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\item_stat_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_activity_statistics.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_layout_share_result.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\layout_share_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-merged_res-39:\\layout_dialog_new_game.xml.flat",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.6\\com.example.okey101.app-main-41:\\layout\\dialog_new_game.xml"
+    }
+]

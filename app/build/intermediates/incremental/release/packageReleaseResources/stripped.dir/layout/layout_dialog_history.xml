@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/surface_dark">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Puan Geçmişi"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/gold_accent"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TableLayout
+            android:id="@+id/tableHistory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="1,2,3,4">
+            
+            <!-- Headers will be added programmatically or here -->
+            <TableRow
+                android:background="@color/okey_green_dark"
+                android:padding="8dp">
+                
+                <TextView
+                    android:text="Tur"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:padding="4dp"
+                    android:gravity="center"/>
+                
+                <TextView
+                    android:id="@+id/tvHeaderP1"
+                    android:text="Oyuncu 1"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:padding="4dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/tvHeaderP2"
+                    android:text="Oyuncu 2"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:padding="4dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/tvHeaderP3"
+                    android:text="Oyuncu 3"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:padding="4dp"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/tvHeaderP4"
+                    android:text="Oyuncu 4"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:padding="4dp"
+                    android:gravity="center"/>
+            </TableRow>
+            
+        </TableLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnCloseHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kapat"
+        android:backgroundTint="@color/okey_green_primary"
+        android:textColor="@color/white"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
