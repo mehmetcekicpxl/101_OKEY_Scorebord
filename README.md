@@ -4,15 +4,15 @@
 
 Deze repository bevat de broncode en bijbehorende documentatie voor het **101 OKEY Scorebord** project. Dit project is ontwikkeld met een focus op gebruiksvriendelijkheid, schaalbaarheid en schone code.
 
-## âœ¨ Functionaliteiten
+## Functionaliteiten
 - Eenvoudig scores toevoegen, berekenen en bijwerken
-- IntuÃ¯tieve en gebruiksvriendelijke interface voor snelle invoer
+- Een intuïtieve en gebruiksvriendelijke interface voor snelle gegevensinvoer
 - Foutloze automatische scoreberekening
 
-## ðŸ› ï¸ Gebruikte TechnologieÃ«n
+## Gebruikte Technologieën
 - **Android, Java/Kotlin**
 
-## ðŸ“¸ Screenshots
+## Screenshots
 *(Voeg later screenshots toe in de screenshots map en link ze hier)*
 
 `html
@@ -20,7 +20,7 @@ Deze repository bevat de broncode en bijbehorende documentatie voor het **101 OK
 <!-- <img src="./screenshots/app_home.png" alt="Home Screen" width="300"/> -->
 `
 
-## ðŸš€ Installatie & Gebruik
+## Installatie & Gebruik
 Open dit project in Android Studio, synchroniseer Gradle en installeer de applicatie op een emulator of een fysiek apparaat.
 
 ---
