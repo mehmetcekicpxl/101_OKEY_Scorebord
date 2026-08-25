@@ -13,8 +13,18 @@ Dit project is zorgvuldig ontwikkeld met de nadruk op schone code, schaalbaarhei
 - **C# / Windows Forms / WPF**
 
 ## 📸 Screenshots
+<img width="450" height="800" alt="101Okey0" src="https://github.com/user-attachments/assets/5883c948-1c61-4690-9bf5-73ee7be6cca1" />
+<img width="450" height="800" alt="101Okey1" src="https://github.com/user-attachments/assets/49d56383-e680-46fb-9c73-5ba398a3ef35" />
+<img width="450" height="800" alt="101Okey2" src="https://github.com/user-attachments/assets/cfc45e58-f8a7-4758-aef4-23c0f85b6ab1" />
+<img width="450" height="800" alt="101Okey3" src="https://github.com/user-attachments/assets/f14c21d1-a125-490b-aadb-b93ba8b64447" />
+<img width="450" height="800" alt="101Okey4" src="https://github.com/user-attachments/assets/f70c8306-c392-49b3-bc6f-9753acd3e7d3" />
+<img width="450" height="800" alt="101Okey5" src="https://github.com/user-attachments/assets/9dfdf4a5-4d26-4de8-98ba-ce865b2d12bf" />
+<img width="450" height="800" alt="101Okey6" src="https://github.com/user-attachments/assets/bfceb29d-73f4-44c4-8086-638570a2b688" />
 
-*(Geen screenshots beschikbaar op dit moment)*
+
+
+
+
 
 ## 🚀 Installatie & Gebruik
 1. Clone deze repository naar uw lokale machine.
